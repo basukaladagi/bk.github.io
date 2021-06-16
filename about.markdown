@@ -3,16 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
+Hi,
+I am Basu. Welcome to my humble abode on the internet.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is my personal blog, where I plan to riff on various topics, just for my own clarity. 
+I love building products, writing code and running.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Love discussing anything technical. Hit me up @basukaladagi89 if you want to collaborate and build anything new.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
